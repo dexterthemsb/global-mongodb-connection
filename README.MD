@@ -16,7 +16,7 @@ Please set the environment variables before running the server. Include a ```.en
 
 1. ```DB_HOST``` to provide a link for the hosted database.
 2. ```DB_NAME``` to provide the database name in your Atlas cluster or your database host.
-3. ```SECRET_SESSION``` to provide a secret key for your sessions.
+3. ```PORT``` to run the sever on a certain port number. By default it is set to ```1803```.
 
 ## 📣 Usage
 
